@@ -1,0 +1,1 @@
+export const baseURL = 'https://eduthon-api.delwathon.com/api/';
